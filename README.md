@@ -1,19 +1,11 @@
-# Primeiro App utilizando RN
+# Primeiro App utilizando React Native
 
 O objetivo do projeto é criar um aplicativo que utilize o React Native. Na tela inicial, o usuário poderá visualizar uma breve informação sobre mim, e ao clicar no botão, será encaminhado para o meu GitHub.
 
-# Introdução ao React Native
+# Introdução ao RN
 
 ![Tela](https://user-images.githubusercontent.com/81055133/173257297-bb3c6fa8-0226-475e-a21c-2523de1d5cde.jpg)
 
-
-<<<<<<< HEAD
-# Introdução ao React Native
-
-![image](https://user-images.githubusercontent.com/28990749/164563574-23514d45-d504-4346-8a14-e6c423faca4b.png)
-
-=======
->>>>>>> 8b06cf4cf7a89f057c4e8e0affad804e101622ca
 # Conteúdo
 
 * Conhecendo o React Native
@@ -45,7 +37,4 @@ O objetivo do projeto é criar um aplicativo que utilize o React Native. Na tela
   - Pressable
   - Linking API
   - Add código nativo no AndroidManifest.xml para abrir link
-<<<<<<< HEAD
  
-=======
->>>>>>> 8b06cf4cf7a89f057c4e8e0affad804e101622ca
