@@ -3,7 +3,7 @@
 O objetivo do projeto é criar um aplicativo que utilize o React Native. Na tela inicial, o usuário poderá visualizar uma breve informação sobre mim, e ao clicar no botão, será encaminhado para o meu GitHub.
 
 ## Teste
-<img src="../assets/Tela.jpg" alt="">
+![teste](./assets/Tela.jpg)
 
 
 
